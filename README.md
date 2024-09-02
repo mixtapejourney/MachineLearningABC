@@ -13,3 +13,12 @@ Option 2: VS code, plus extension "Jupyter"
 
 
 # 01.ipynb
+Performance Measure/Evaluation Metrics for regression tasks
+
+8 commonlly used metrics
+
+9 additional metrics
+
+
+
+# 02.ipynb
