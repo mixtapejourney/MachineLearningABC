@@ -1,5 +1,5 @@
-# MachineLearningABC
-Basic or foundational aspects of Machine Learning
+# Machine Learning miscellaneous
+Miscellaneous things in Machine Learning
 
 Repo created on 09/02/2024
 
@@ -22,3 +22,4 @@ Performance Measure/Evaluation Metrics for regression tasks
 
 
 # 02.ipynb
+$\mathit{l}_k$ _Norm_ explained
